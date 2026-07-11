@@ -1,0 +1,5 @@
+gtfs-realtime-bindings
+requests
+pandas
+streamlit
+plotly
