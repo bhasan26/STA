@@ -1,0 +1,9 @@
+Background image (bus_bg.jpg) is a resized/darkened crop of:
+
+  "Full Spokane City Line bus charging at SCC transit center October 2023"
+  Author: JTRamsey
+  Source: https://commons.wikimedia.org/wiki/File:Full_Spokane_City_Line_bus_charging_at_SCC_transit_center_October_2023.jpg
+  License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Per CC BY-SA 4.0, this derivative is shared under the same license, with
+attribution retained here and in the dashboard footer.
